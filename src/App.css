@@ -1,0 +1,39 @@
+*{
+  font-family:cursive;
+}
+.inpt{
+  padding-inline: 4px;
+  height: 37px;
+  
+}
+.container {
+  justify-content: center;
+  align-items: center;
+  max-width: 309px; /* Adjust as needed */
+  margin: 80px auto; /* Centers the container horizontally */
+  padding: 50px;
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  align-items: center; /* Center horizontally */
+  justify-content: center; /* Center vertically */
+ 
+}
+.btn{
+  padding: 12px 16px;
+  margin-inline: 5px;
+  background-color: #a77526;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-style: normal;
+}
+button{
+  padding: 12px 16px;
+  color: #a77526;
+  margin: 10px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
+}
